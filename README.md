@@ -4,6 +4,6 @@ Will be looking at very aspects of linear algebra, vector calculus and different
 
 ## Linear Algebra
 
-### Regression 
+### Regression Analysis
 
 
